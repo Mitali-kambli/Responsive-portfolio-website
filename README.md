@@ -1,6 +1,6 @@
 # Responsive-portfolio-website
 
-Completed and working Responsive Portfolio Website only Using HTML and CSS.
+Completed and working Responsive Portfolio Website using only HTML and CSS.
 
 This Portfolio Website is fully responsive and has cross-browser compatibility.
 
